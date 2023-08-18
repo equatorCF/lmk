@@ -741,7 +741,7 @@ footer .contact-info h4 {
 }
 
 footer .contact-info ul li {
-	font-size: 23px;
+	font-size: 13px;
 	color: #f7c552;
 	display: inline-block;
 	line-height: 24px;
@@ -753,8 +753,8 @@ footer .contact-info ul li {
 }
 
 footer .contact-info ul li em {
-	font-style: normal;
-	font-weight: 500;
+	font-style:italic;
+	font-weight: 100;
 }
 
 footer .connect-us h4 {
